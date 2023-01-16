@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Roy</h1>
 
 - 🖥 Software developer
-- 🌱 I’m currently learning web technology
+- 🌱 I’m currently learning web app technology
 
 <a href="mailto:roychanho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a target="_blank" href="https://hk.linkedin.com/in/long-ch-014b18214"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
